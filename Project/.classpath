@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/499661/Desktop/Jar Files/commons-email-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/499661/Desktop/Jar Files/fplemail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/499661/Desktop/Jar Files/Framework_Core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/499661/Desktop/Jar Files/Framework_DataTable.jar"/>
+	<classpathentry kind="lib" path="C:/Users/499661/Desktop/Jar Files/Framework_Reporting_2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/499661/Desktop/Jar Files/Framework_Utilities.jar"/>
+	<classpathentry kind="lib" path="C:/Users/499661/Desktop/Jar Files/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/499661/Desktop/Jar Files/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/499661/Desktop/Jar Files/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/499661/Desktop/Jar Files/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/499661/Desktop/Jar Files/ojdbc14_g.jar"/>
+	<classpathentry kind="lib" path="C:/Users/499661/Desktop/Jar Files/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="C:/Users/499661/Desktop/Jar Files/selenium-server-standalone-2.42.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
