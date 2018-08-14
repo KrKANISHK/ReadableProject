@@ -19,13 +19,13 @@ public class Check
 		
 		driver.get("https://www.w3schools.com/html/html_iframe.asp");
 		
-//		List<WebElement> elements = driver.findElements(By.xpath("//span[@class='titreck']"));
-//		for(WebElement ele : elements)
-//		{
-//			ele.findElement(By.xpath("//span[text() = 'SAP']")).click();
-//		}
-//		
-//		driver.findElement(By.xpath("//span[text() = 'SAP - FICO']")).click();
+		List<WebElement> elements = driver.findElements(By.xpath("//span[@class='titreck']"));
+		for(WebElement ele : elements)
+		{
+			ele.findElement(By.xpath("//span[text() = 'SAP']")).click();
+		}
+		
+		driver.findElement(By.xpath("//span[text() = 'SAP - FICO']")).click();
 
 		driver.switchTo().frame(1);
 		
