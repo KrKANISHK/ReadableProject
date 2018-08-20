@@ -1,5 +1,6 @@
 package TakingScreenShotSelenium;
 
+import java.awt.Window;
 import java.io.File;
 import java.io.IOException;
 import java.util.List;
@@ -31,6 +32,7 @@ public class Navigation
 		driver = new ChromeDriver();
 		driver.get("https://www.guru99.com/");
 		capture(driver);
+		
 		List<WebElement> elements = driver.findElements(By.xpath("//span[@class='titreck']"));
 		for(WebElement ele : elements)
 		{
